@@ -1,0 +1,15 @@
+server:
+  port: 9999
+
+trapsender:
+  ipAddress: '127.0.0.1'
+  port: 162
+  community: 'public'
+  snmpVersion: 1
+  sendCounter: 3
+
+
+
+
+
+
